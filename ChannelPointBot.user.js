@@ -28,4 +28,4 @@ function checkForBonus() {
     }
 }
 
-setInterval(checkForBonus, 500);
+setInterval(checkForBonus, 2000);
