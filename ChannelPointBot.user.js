@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ChannelPointBot
 // @namespace    http://github.com/codsane/ChannelPointBot
-// @version      1.0
+// @version      1.1
 // @description  Automatically click Twitch channel point bonuses
 // @author       codsane
 // @match        *://*.twitch.tv/*
